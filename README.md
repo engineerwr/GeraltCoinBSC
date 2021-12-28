@@ -8,4 +8,5 @@ Notice Board - Take a mission from the board and start this exciting single play
 PVP - Fight other witchers in this competitive game mode! You can select 1-vs-1 or 4-vs-4 modes.
 
 Upgrades - Upgrades allow players to level up their heroes.
+
 Shop - Buy Potions to increase stats for a shorter time period and fight against tough enemies more easily.
